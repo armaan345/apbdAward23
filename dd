@@ -1,0 +1,120 @@
+
+<div class="main-container">
+  <div class="hero-category">
+    <div class="chip"><i class="fas fa-medal" style="margin-right: 8px;"></i> 2026 NOMINATIONS</div>
+    <h1>Awards Categories</h1>
+    <div class="hero-sub"><i class="fas fa-crown"></i> Honoring excellence across media, music & folk traditions</div>
+  </div>
+
+  <div class="grid-awards">
+    <!-- 1. Best Radio Presenter -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/_ (7).jpeg" alt="Radio Presenter"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-microphone-alt"></i></div><h3>Best Radio Presenter</h3><p>Voice mastery, audience connection and broadcast excellence.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 2. Best TV Anchor -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/ABC News evolves with anchor Muir amid stiff competition.jpeg" alt="TV Anchor"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-tv"></i></div><h3>Best TV Anchor</h3><p>Charisma, storytelling and impactful on-screen presence.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 3. Best Newcomer Male -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/Dazzling man.jpeg" alt="Newcomer Male"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-star"></i></div><h3>Best Newcomer Male</h3><p>Fresh talent, promising future and breakthrough performance.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 4. Best Newcomer Female -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/_ (8).jpeg" alt="Newcomer Female"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-sparkle"></i></div><h3>Best Newcomer Female</h3><p>Rising star with exceptional artistry and potential.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 5. Best Song Writer -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/Step By Step Guide_ How To Decode Your Favorite_.avif" alt="Songwriter"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-feather-alt"></i></div><h3>Best Song Writer</h3><p>Lyrical brilliance, poetic storytelling and composition craft.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 6. Best Music Studio -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/【ボイトレ】効果を最大化！レコーディングレッスンを活用した新しい練習法.jpeg" alt="Music Studio"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-headphones"></i></div><h3>Best Music Studio</h3><p>Production quality, innovation and sonic excellence.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 7. Best Singer Male - Punjabi -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/sidhu moose wala.jpeg" alt="Punjabi Male Singer"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-dharmachakra"></i></div><h3>Best Singer Male - Punjabi</h3><p>Exceptional Punjabi vocal mastery and cultural influence.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 8. Best Singer Male - Bollywood -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/Arijit Singh.jpeg" alt="Bollywood Male Singer"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-microphone"></i></div><h3>Best Singer Male - Bollywood</h3><p>Powerful playback singing & cinematic vocal excellence.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 9. Best Singer Female Punjabi -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/_ (9).jpeg" alt="Female Punjabi Singer"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-female"></i></div><h3>Best Singer Female Punjabi</h3><p>Finest female voice shaping Punjabi music landscape.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 10. Best Female Singer - Bollywood -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/Warm Photography - Lightroom Presets.jpeg" alt="Female Bollywood Singer"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-sunglasses"></i></div><h3>Best Female Singer - Bollywood</h3><p>Iconic Bollywood female vocals & emotional depth.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 11. Best Bhangra Dancer Male -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/_ (10).jpeg" alt="Bhangra Dancer Male"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-bolt"></i></div><h3>Best Bhangra Dancer Male</h3><p>Energetic moves, rhythm mastery & stage magnetism.</p>
+      <a href="#" class="nominate-btn">click now.  <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 12. Best Bhangra Dancer Female -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/91810fb337084306352418eef498f735.jpg" alt="Bhangra Dancer Female"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-fist-raised"></i></div><h3>Best Bhangra Dancer Female</h3><p>Grace, power and authentic Bhangra expression.</p>
+      <a href="#" class="nominate-btn">click now  <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 13. Best Gidha Dancer -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/images.jpeg" alt="Gidha Dancer"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-hands-clapping"></i></div><h3>Best Gidha Dancer</h3><p>Traditional elegance, folk vibrancy and storytelling.</p>
+      <a href="#" class="nominate-btn">click now  <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 14. Best Dhol Player -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/e95b993cd97af111d8a3c74c1141c2ea.jpg" alt="Dhol Player"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-drum"></i></div><h3>Best Dhol Player</h3><p>Master percussionist, infectious beats & cultural essence.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 15. Best Chimta Player -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/images (1).jpeg" alt="Chimta Player"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-hand-peace"></i></div><h3>Best Chimta Player</h3><p>Celebrating folk rhythm & chimta virtuosity.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 16. Best Song -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/Land Bennington.jpeg" alt="Best Song"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-crown"></i></div><h3>Best Song</h3><p>Most impactful, streamed & culturally resonant track.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 17. Lifetime Achievement Award -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/😍🏆.jpeg" alt="Lifetime Achievement"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-gem"></i></div><h3>Lifetime Achievement Award</h3><p>Legendary contribution, timeless influence & inspiration.</p>
+      <a href="#" class="nominate-btn">click now <i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+    <!-- 18. Special Contribution in the Music Industry -->
+    <div class="award-card">
+      <div class="card-media"><img src="catgories/_ (13).jpeg" alt="Special Contribution"></div>
+      <div class="card-body"><div class="icon-cat"><i class="fas fa-chart-line"></i></div><h3>Special Contribution in the Music Industry</h3><p>Visionaries, innovators & industry shapers.</p>
+      <a href="#" class="nominate-btn">click now<i class="fas fa-chevron-right"></i></a><div class="accent-line"></div></div>
+    </div>
+  </div>
+
+</div>
