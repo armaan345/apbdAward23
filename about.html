@@ -225,10 +225,13 @@
                 <div class="container">
                     <div class="row g-4 align-items-center">
                         <div class="col-lg-5">
-                            <div class="gt-about-image-2">
-                                <img src="catgories/WhatsApp_Image_2026-04-24_at_9.07.24_PM-removebg-preview.png" alt="ABPD" style="width:80%; height:400px; object-fit:cover; ">
-                            </div>
-                        </div>
+    <div class="gt-about-image-2">
+        <img src="catgories/WhatsApp_Image_2026-04-24_at_9.07.24_PM-removebg-preview.png" 
+             alt="ABPD" 
+             class="rotate-img"
+             style="width:75%; height:450px; object-fit:cover;">
+    </div>
+</div>
                         <div class="col-lg-7">
                             <div class="gt-about-content">
                                 <h6 class="subtitle text-uppercase">About Us</h6>
@@ -243,13 +246,7 @@
                                     <p class="presenting-text">Proudly Presenting the <strong>2nd Year ABPD SHOWBIZ AWARDS 2026
                                 </div>
 
-                                <!-- Highlights / Counters -->
-                                <div class="row mt-4">
-                                    <div class="col-6"><div class="about-box"><h3 class="counter" data-target="32">0</h3><p>Years Experience</p></div></div>
-                                    <div class="col-6"><div class="about-box"><h3 class="counter" data-target="100">0</h3><p>Global Shows</p></div></div>
-                                    <div class="col-6 mt-3"><div class="about-box"><h3 class="counter" data-target="50">0</h3><p>Artists Collaboration</p></div></div>
-                                    <div class="col-6 mt-3"><div class="about-box"><h3 class="counter" data-target="10">0</h3><p>Film Appearances</p></div></div>
-                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -292,6 +289,18 @@
                 <img src="assets/img/WhatsApp Image 2026-03-14 at 2.55.17 PM (1).jpeg" alt="Banner">
             </section>
             <style>
+                .rotate-img {
+    animation: rotate 5s linear infinite;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
                 .hero-section{ width:100%; height:60vh; overflow:hidden; background:#000; }
                 .hero-section img{ width:100%; height:100%; object-fit:cover; display:block; }
                 @media (max-width: 768px){ .hero-section{ height:auto; } .hero-section img{ height:auto; object-fit:contain; } }
